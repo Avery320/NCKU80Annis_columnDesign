@@ -1,0 +1,12 @@
+# ignore all .3dm and .gh files
+*.3dm
+*.gh
+
+# ignore files for now
+construction_plan.md
+
+
+# don't ignore .3dm and .gh files in the " " directory
+# !TruchetPattern_GH_Algorithm/*
+# ! GH_tools/*
+
